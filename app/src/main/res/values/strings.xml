@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VKMusic</string>
+    <string name="title_activity_open">OpenActivity</string>
+    <string name="title_activity_log_in">LogInActivity</string>
+</resources>
